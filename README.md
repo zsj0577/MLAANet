@@ -32,3 +32,19 @@ The following datasets are used in this experiment:
   <li><a href="https://conic-challenge.grand-challenge.org/">CoNIC</a></li>
   <li><a href="https://www.kaggle.com/datasets/ipateam/nuinsseg/">NuInsSeg</a></li>
  </ol>
+ 
+# Citation
+
+If you find this work useful in your research, please consider citing our papers:
+
+```bibtex
+@article{zhu2026mlaanet,
+  title     = {MLAANet: A multi-level attention-aware network for pathological nuclei segmentation},
+  author    = {Zhu, Shujin and Li, Yue and Lu, Linsheng and Mao, Tianyi and Yan, Yidan and Dai, Xiubin},
+  journal   = {Biomedical Signal Processing and Control},
+  volume    = {112},
+  pages     = {108716},
+  year      = {2026},
+  publisher = {Elsevier}
+}
+```
